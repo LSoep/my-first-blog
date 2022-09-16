@@ -6,7 +6,7 @@ __pycache__
 # Env
 .env
 myvenv/
-lsenv/
+lsvenv/
 venv/
 
 # Database
